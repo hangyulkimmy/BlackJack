@@ -1,6 +1,6 @@
 # Blackjack
 
-Multiplayer blackjack with betting — up to 3 players against the dealer, each with their own bankroll.
+Multiplayer blackjack with betting, up to 3 players against the dealer, each with their own bankroll.
 
 Built in [Code.org App Lab](https://code.org/educate/applab) as a final project. Everything the game does is in `code.js`; the UI is App Lab's design-tab HTML.
 
